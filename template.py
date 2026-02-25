@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 list_of_files = [
     "src/__init__.py",
-    "src/helpers.py",
+    "src/utils.py",
     "requirements.txt",
     "setup.py",
     "research/experiments.ipynb",
